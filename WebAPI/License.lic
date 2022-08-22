@@ -1,0 +1,14 @@
+﻿<License>
+  <Id>5e00afb0-5c9a-44c3-a909-cd8180a3a83b</Id>
+  <Type>Trial</Type>
+  <Expiration>Mon, 22 Aug 2022 13:01:07 GMT</Expiration>
+  <Quantity>1</Quantity>
+  <ProductFeatures>
+    <Feature name="Product name:">Office</Feature>
+  </ProductFeatures>
+  <Customer>
+    <Name>ionescu@gmail.com</Name>
+    <Email>ionescu@gmail.com</Email>
+  </Customer>
+  <Signature>MIGIAkIAlWVCZsGQKorS2/nXquc5AKxFn6MKAvumeQ2BmjBeUAYbbjTOHYgxA71yrJmc8r+eXxnml/xltYm7Sgz+MKefBmQCQgHZr4Ooxf1abAhYOlGoOh+PZo2dZnbC65O4gYN+FUnArA2+tTvc9uHFMMMTUSKbH/VVFCV37q9WyH6+faQAfwFJPg==</Signature>
+</License>
